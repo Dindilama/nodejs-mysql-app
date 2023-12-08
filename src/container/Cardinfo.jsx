@@ -31,10 +31,18 @@ const CardInfo = () => {
             LEARNING!!
           </p>
           <div className="flex justify-center items-center md:mt-1 mt-2">
-            <a href="https://github.com/BramsLF">
+            <a
+              href="https://github.com/Dindilama"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <img src={github} alt="GitHub" className="md:w-8 w-6 mr-4" />
             </a>
-            <a href="https://www.linkedin.com/in/brayan-mercado-sanmart%C3%ADn-8a69821b1/">
+            <a
+              href="https://www.linkedin.com/in/dindi-lamadrid-697929138/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <img src={linkedin} alt="LinkedIn" className="md:w-8 w-6" />
             </a>
           </div>
@@ -80,11 +88,19 @@ const CardInfo = () => {
           </p>
           <hr className="w-62 m-auto" />
           <div className="flex justify-center items-center mt-2 md:mt-4">
-            <a href="https://github.com/BramsLF">
-              <img src={github} alt="GitHub" className="w-10 mr-4" />
+          <a
+              href="https://github.com/Dindilama"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={github} alt="GitHub" className="md:w-8 w-6 mr-4" />
             </a>
-            <a href="https://www.linkedin.com/in/brayan-mercado-sanmart%C3%ADn-8a69821b1/">
-              <img src={linkedin} alt="LinkedIn" className="w-12" />
+            <a
+              href="https://www.linkedin.com/in/dindi-lamadrid-697929138/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={linkedin} alt="LinkedIn" className="md:w-8 w-6" />
             </a>
           </div>
         </div>
